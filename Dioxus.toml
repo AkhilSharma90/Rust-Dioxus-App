@@ -1,0 +1,16 @@
+[application]
+name = "todo_app"
+default_platform = "web"
+out_dir = "docs"
+base_path = "dioxus-todo"
+
+[web.app]
+title = "Todo App"
+
+[web.watcher]
+reload_html = true
+
+[web.resource]
+
+
+[web.resource.dev]
